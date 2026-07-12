@@ -191,7 +191,5 @@ if (modo == 3) {
       puedeRotar = true;
   }
 }
-if (puedeRotar && mouseX < 400) {
-    rotarActivado = !rotarActivado;
   }
 }
