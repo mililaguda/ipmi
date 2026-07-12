@@ -190,6 +190,6 @@ if (modo == 3) {
       dinamico = false;
       puedeRotar = true;
   }
-}
+
   }
 }
